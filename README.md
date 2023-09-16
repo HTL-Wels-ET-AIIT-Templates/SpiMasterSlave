@@ -1,1 +1,1 @@
-# AIIT5JG-SpiMasterSlave-Loesung
+# AIIT5JG-SpiMasterSlave
